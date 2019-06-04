@@ -1,0 +1,3 @@
+[submodule "LibraryA"]
+	path = LibraryA
+	url = https://github.com/jiangshujing/LibraryA.git
